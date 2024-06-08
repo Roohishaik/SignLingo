@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351033424489",
+    "project_id": "signlanguage-b09d6",
+    "storage_bucket": "signlanguage-b09d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351033424489:android:dfc978bbe9fb95b1bc40f8",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTcsIMcovAXJcyP2HrSaPLXhqUklqnJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351033424489:android:f7b8a5a4ad3ec822bc40f8",
+        "android_client_info": {
+          "package_name": "org.opencv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTcsIMcovAXJcyP2HrSaPLXhqUklqnJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

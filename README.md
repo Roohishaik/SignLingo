@@ -12,7 +12,7 @@ The dataset includes:
 - **Total Images:** 11,391
 - **Classes:** 25 (each representing a different sign language gesture)
 - **Images per Class:** Between 397 to 500
-
+ 
 ## Technology Stack
 - **OpenCV:** For image processing and edge detection to enhance gesture recognition.
 - **Firebase:** For backend authentication and user management.
